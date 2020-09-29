@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdM6ODeNwLLPMjD2zOqGe/TKA4cod0iHp/A1nDqG4vlPpYD6thpHDg6sWG9taqI4V0+VqnvCS0xTFLOHzjGRvw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\.net-core-react-app\\Reactivities\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james.hardy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\james.hardy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

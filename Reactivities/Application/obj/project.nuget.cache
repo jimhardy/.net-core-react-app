@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEcxrhSsiqJEA8czxxULvFMIrjQ2Ybe5OtGgBfG4QF/MjpV/FcP7J4sZR9FH22f9AuE4RL3tFB79VhhTHtukSQ==",
+  "success": true,
+  "projectFilePath": "C:\\source\\.net-core-react-app\\Reactivities\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james.hardy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\james.hardy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
